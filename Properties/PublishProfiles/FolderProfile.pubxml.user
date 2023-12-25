@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\legia\Downloads\Compressed\Resources\Using the Azure Web App connection string\sqlapp\sqlapp\bin\Release\net6.0\publish\</_PublishTargetUrl>
+    <History>True|2023-12-23T08:41:46.2553651Z;True|2023-12-23T15:37:48.7933742+07:00;True|2023-12-23T15:30:41.5636825+07:00;True|2023-12-23T15:06:37.4917587+07:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

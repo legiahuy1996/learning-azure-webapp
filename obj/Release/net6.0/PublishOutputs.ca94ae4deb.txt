@@ -1,0 +1,13 @@
+C:\Users\legia\Downloads\Compressed\Resources\Using the Azure Web App connection string\sqlapp\sqlapp\obj\Release\net6.0\PubTmp\Out\sqlapp.exe
+C:\Users\legia\Downloads\Compressed\Resources\Using the Azure Web App connection string\sqlapp\sqlapp\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\legia\Downloads\Compressed\Resources\Using the Azure Web App connection string\sqlapp\sqlapp\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\legia\Downloads\Compressed\Resources\Using the Azure Web App connection string\sqlapp\sqlapp\obj\Release\net6.0\PubTmp\Out\sqlapp.dll
+C:\Users\legia\Downloads\Compressed\Resources\Using the Azure Web App connection string\sqlapp\sqlapp\obj\Release\net6.0\PubTmp\Out\sqlapp.deps.json
+C:\Users\legia\Downloads\Compressed\Resources\Using the Azure Web App connection string\sqlapp\sqlapp\obj\Release\net6.0\PubTmp\Out\sqlapp.runtimeconfig.json
+C:\Users\legia\Downloads\Compressed\Resources\Using the Azure Web App connection string\sqlapp\sqlapp\obj\Release\net6.0\PubTmp\Out\sqlapp.pdb
+C:\Users\legia\Downloads\Compressed\Resources\Using the Azure Web App connection string\sqlapp\sqlapp\obj\Release\net6.0\PubTmp\Out\System.Data.SqlClient.dll
+C:\Users\legia\Downloads\Compressed\Resources\Using the Azure Web App connection string\sqlapp\sqlapp\obj\Release\net6.0\PubTmp\Out\runtimes\win-arm64\native\sni.dll
+C:\Users\legia\Downloads\Compressed\Resources\Using the Azure Web App connection string\sqlapp\sqlapp\obj\Release\net6.0\PubTmp\Out\runtimes\win-x64\native\sni.dll
+C:\Users\legia\Downloads\Compressed\Resources\Using the Azure Web App connection string\sqlapp\sqlapp\obj\Release\net6.0\PubTmp\Out\runtimes\win-x86\native\sni.dll
+C:\Users\legia\Downloads\Compressed\Resources\Using the Azure Web App connection string\sqlapp\sqlapp\obj\Release\net6.0\PubTmp\Out\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\legia\Downloads\Compressed\Resources\Using the Azure Web App connection string\sqlapp\sqlapp\obj\Release\net6.0\PubTmp\Out\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
